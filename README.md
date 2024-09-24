@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-#Jakbarovvм
+#Jakbarovvм2
 
 ## 🤓 Course overview and learning outcomes 
 
