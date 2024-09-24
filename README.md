@@ -1,5 +1,7 @@
 # :wave: The Basics of GitHub 
 
+#Jakbarovv
+
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
@@ -90,7 +92,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Optional next steps 
 
-Get point for free
+#Get point for free
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
